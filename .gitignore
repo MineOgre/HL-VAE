@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+__pycache__/
+saved_models/
+trainingSet/
+data/
+venv/
+env/
