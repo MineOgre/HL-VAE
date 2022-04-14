@@ -15,7 +15,5 @@ Generating Health MNIST experiment data
 
 Using our method
 ----------------
-- Create results folder.
-
-- To run the **HLVAE model**:
-		`python HLVAE_main.py --f=./config/hlvae_config_file.txt`
+-To run the **HLVAE model**:
+        `python HLVAE_main.py --f=./config/hlvae_config_file.txt`
